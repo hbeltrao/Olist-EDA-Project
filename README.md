@@ -17,13 +17,9 @@
 
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/hbeltrao/Olist-EDA-Project?include_prereleases)
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/hbeltrao/Olist-EDA-Project)
-
 ![GitHub issues](https://img.shields.io/github/issues-raw/hbeltrao/Olist-EDA-Project)
-
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/hbeltrao/Olist-EDA-Project)
-
 ![GitHub](https://img.shields.io/github/license/hbeltrao/Olist-EDA-Project)
 
 
@@ -59,11 +55,17 @@ In this project we will dive into the Olist E-Commerce database and perform a se
 
 
 - [Title](#diving-into-brazilian-e-commerce-public-dataset-by-olist-using-sql-and-python)
+
 - [Table of contents](#table-of-contents)
+
 - [Database Context and structure](#database-context-and-structure)
+
 - [Methodology](#methodology)
+
 - [Development](#development)
+
 - [License](#license)
+
 - [Footer](#footer)
 
 
