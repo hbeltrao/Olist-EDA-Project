@@ -66,7 +66,7 @@ In this project we will dive into the Olist E-Commerce database and perform a se
 
 - [Methodology](#methodology)
 
-- [Development](#development)
+- [Order shipping performance](#order-shipping-performance)
 
 - [License](#license)
 
@@ -129,7 +129,7 @@ The main tools and libraries used were:
 
 
 
-# Development
+# Order shipping performance
 
 [(Back to top)](#table-of-contents)
 
