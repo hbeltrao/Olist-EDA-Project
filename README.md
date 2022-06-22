@@ -17,13 +17,9 @@
 
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/hbeltrao/Olist-EDA-Project?include_prereleases)
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/hbeltrao/Olist-EDA-Project)
-
 ![GitHub issues](https://img.shields.io/github/issues-raw/hbeltrao/Olist-EDA-Project)
-
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/hbeltrao/Olist-EDA-Project)
-
 ![GitHub](https://img.shields.io/github/license/hbeltrao/Olist-EDA-Project)
 
 
@@ -66,7 +62,7 @@ In this project we will dive into the Olist E-Commerce database and perform a se
 
 - [Methodology](#methodology)
 
-- [Development](#development)
+- [Order shipping performance](#order-shipping-performance)
 
 - [License](#license)
 
@@ -110,7 +106,7 @@ The data is distributed through 8 tables connected following the Data Schema sho
 
 For each topic of the introduction, we will try to use the following Data Analysis Framework:
 
-![Figure-2](https://github.com/hbeltrao/Olist-EDA-Project/blob/a75d2049dbdce4ebe1e73fe9f9c8066b17eb5e40/Data%20Schema.png)
+![Figure-2](https://github.com/hbeltrao/Olist-EDA-Project/blob/197e8354d87b4030909f9eba5341f76a7d480ab1/data%20analysis%20framework.png)
 
 All data was stored in a MySQL database and the access  made via SQL queries directly through python code on the jupyter notebooks.
 
@@ -129,7 +125,7 @@ The main tools and libraries used were:
 
 
 
-# Development
+# Order shipping performance
 
 [(Back to top)](#table-of-contents)
 
