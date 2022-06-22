@@ -106,7 +106,7 @@ The data is distributed through 8 tables connected following the Data Schema sho
 
 For each topic of the introduction, we will try to use the following Data Analysis Framework:
 
-![Figure-2](https://github.com/hbeltrao/Olist-EDA-Project/blob/cde053d68825a5961aa70d3404f9acb9789211f0/data%20analysis%20framework.png)
+![Figure-2](https://github.com/hbeltrao/Olist-EDA-Project/blob/197e8354d87b4030909f9eba5341f76a7d480ab1/data%20analysis%20framework.png)
 
 All data was stored in a MySQL database and the access  made via SQL queries directly through python code on the jupyter notebooks.
 
