@@ -1,3 +1,56 @@
+
+<!-- Add banner here -->
+
+
+
+![Banner](https://github.com/hbeltrao/Olist-EDA-Project/blob/a75d2049dbdce4ebe1e73fe9f9c8066b17eb5e40/README-header.png)
+
+
+
+
+
+# Diving into Brazilian E-Commerce Public Dataset by Olist using SQL and Python
+
+
+
+<!-- Add buttons here -->
+
+
+
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/hbeltrao/Olist-EDA-Project?include_prereleases)
+![GitHub last commit](https://img.shields.io/github/last-commit/hbeltrao/Olist-EDA-Project)
+![GitHub issues](https://img.shields.io/github/issues-raw/hbeltrao/Olist-EDA-Project)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/hbeltrao/Olist-EDA-Project)
+![GitHub](https://img.shields.io/github/license/hbeltrao/Olist-EDA-Project)
+
+
+
+<!-- Describe your project in brief -->
+
+
+
+In this project we will dive into the Olist E-Commerce database and perform a series of analysis to extract business related information such as :
+
+- Order shipping performance: 
+	 - Delay on shippment or on delivery;
+	 - freight values;
+- Order review analysis:
+	- Sentiment analisys;
+	- review score vs order value and delivery delays;
+- Customer profile:
+	- customer distribution by city and state;
+	- average order ticket per customer per region;
+- Purchase analysis:
+	- orders per city-state;
+	- payment analysis;
+- Sellers performance:
+	- top sellers and best reviewed;
+- Product analysis:
+	- products with most orders;
+	- top products by selling and reviews;
+
+
+
 # Table of contents
 
 
