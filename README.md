@@ -1,3 +1,4 @@
+
 <!-- Add banner here -->
 
 
@@ -62,7 +63,9 @@ In this project we will dive into the Olist E-Commerce database and perform a se
 
 - [Methodology](#methodology)
 
-- [Order shipping performance](#order-shipping-performance)
+- [Customers and sellers demography](#customers-and-sellers-demography)
+
+- [Order shipping and delivery performance](#order-shipping-and-delivery-performance)
 
 - [License](#license)
 
@@ -79,7 +82,7 @@ In this project we will dive into the Olist E-Commerce database and perform a se
 The database used in this project was published by an E-Commerce platform from Brazil called Olist and contains   data from orders made in their platform between 2016 and 2018 and is avaliable on kaggle in the following link:
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
-All data has been anonymised by Olist before publishing the database, and references to the companies and partners in the review text have been replaced with the names of Game of Thrones great houses.
+All data has been pre-processed, cleaned and anonymised by Olist before publishing the database, and references to the companies and partners in the review text have been replaced with the names of Game of Thrones great houses.
 
 
 The data is distributed through 8 tables connected following the Data Schema showed on Figure-1:
@@ -125,25 +128,42 @@ The main tools and libraries used were:
 
 
 
-# Order shipping performance
+# Customers and sellers demography
+
+[(Back to top)](#table-of-contents)
+
+
+Before beginning to explore operation performance characteristics such as delivery performance, top selling products, order review and impacts of delays on customer satisfaction, is better to have an overview of the distribution of customers and sellers in order to have a better understanding on the Olist commercial positioning and analyze possible improvements on logistics strategy to increase marketshare and customer satisfaction based on operation performance and customer feedback.
+
+Following there is the demographic distribution of customers, sellers, orders and revenue:
+<!-- 
+![Figure-3](brazil map of customer  distribution)
+![Figure-4](brazil map of seller  distribution)
+![Figure-5](brazil map of sales  distribution)
+![Figure-6](brazil map of revenue  distribution)
+-->
+ 
+
+
+# Order shipping and delivery performance
 
 [(Back to top)](#table-of-contents)
 
 
 
-<!-- This is the place where you give instructions to developers on how to modify the code.
+As one of the biggest challenges (if not the biggest) of e-commerce, delivery time and cost impact a lot on any online company's performance.
 
+This way, let's explore the performance of the platforms shipping and delivery process by answering the following questions:
 
+	1. How many orders were shipped with delay?
+	2. What are the regions with most delays?
+	3. Are there any seller with high delay rate?
+	4. How many orders were delivered with delay?
+	5. How shipping delay impacts delivery performance?
+	6. Are there any relation between delivery delay and the distance between sellers and customers?
+	7. How does freight value behaves among states?
 
-You could give **instructions in depth** of **how the code works** and how everything is put together.
-
-
-
-You could also give specific instructions to how they can setup their development environment.
-
-
-
-Ideally, you should keep the README simple. If you need to add more complex explanations, use a wiki. Check out [this wiki](https://github.com/navendu-pottekkat/nsfw-filter/wiki) for inspiration. -->
+The jupyter notebook  "Order shipping and delivery performance" navigate through these questions, with answers and insights
 
 
 
